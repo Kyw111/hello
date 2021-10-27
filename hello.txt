@@ -1,1 +1,2 @@
-hello world
+hello worldwelcome to bash
+ My name is git 
