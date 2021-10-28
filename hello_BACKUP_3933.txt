@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+hello world
+welcome to bash
+My name is git 
+=======
+hello worldHi, buddy
+>>>>>>> branch-one
